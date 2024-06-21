@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 subject_matrices.pkl
 subject_statistics.pkl
+subject_seeds.pkl
+
+100iterations
+100iterations_extracted
