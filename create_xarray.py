@@ -5,16 +5,14 @@ import os
 import numpy as np
 from itertools import chain
 from nilearn import datasets, plotting
-import matplotlib
 from matplotlib import pyplot as plt
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 from matplotlib.axes import Axes
-#import significantdigits as sd
 import seaborn as sns
 from matplotlib.colors import LinearSegmentedColormap 
-import scipy.stats
 import nibabel as nib
+import xarray as xr
 import pandas as pd
 import netCDF4
 
